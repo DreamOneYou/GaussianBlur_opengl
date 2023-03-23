@@ -18,7 +18,7 @@
 
      * make
 ### 之后执行下面这条语句：
-     * ./blur <name_of_the_texture_image> <type_of_implementation>  # 输入例子:./blur wall.jpg 3
+     * ./blur <name_of_the_texture_image> <type_of_implementation>  # 输入例子:./blur wall.png 3
 
      * <type_of_implementation> 运行简单的实现类型 1。
 
