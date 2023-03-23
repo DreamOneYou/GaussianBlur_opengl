@@ -32,5 +32,7 @@
 * sudo apt-get install libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfreetype6-dev
 
 ### 结果
-![wall](wall.jpg)
+* 模糊前
+![wall_before](wall.jpg)
+* 模糊后
 ![wall_blur](wall_blur.png)
