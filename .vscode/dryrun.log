@@ -1,4 +1,8 @@
-make.exe --dry-run --always-make --keep-going --print-directory
-'make.exe' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
-���������ļ���
-
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/yiyi/VScode/GaussianBlur_opengl'
+g++ -Wall -g -I./ -c stb_image.cpp 
+g++ -Wall -g -I./ -c shader.cpp 
+g++ -Wall -g -I./ -c main.cpp 
+g++ -o blur stb_image.o shader.o main.o -lGLEW -lGLU -lm -lGL -lm -lpthread -lrt -ldl -lglfw -ljpeg
+make: Leaving directory '/home/yiyi/VScode/GaussianBlur_opengl'
+ 
