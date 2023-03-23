@@ -33,6 +33,6 @@
 
 ### 结果
 * 模糊前
-![wall_before](wall.jpg)
+![wall_before](wall.png)
 * 模糊后
 ![wall_blur](wall_blur.png)
